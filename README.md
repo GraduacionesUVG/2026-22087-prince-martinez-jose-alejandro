@@ -37,7 +37,7 @@ En la sección de [demo](/demo) se encuentra la demostración sobre como quedaro
 
 ## Documentación
 
-El informe final del proyecto está disponible en [/docs/informe_final.pdf](/docs/informeFinal.pdf)
+El informe final del proyecto está disponible en [/docs/informe_final.pdf](/docs/InformeFinal.pdf)
 
 El consentimiento de uso de foto y video firmado se encuentra en [/docs/consentimiento_firmado.pdf](/docs/Consentimiento-Uso-de-foto-y-Video.pdf)
 
