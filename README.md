@@ -19,16 +19,27 @@ En los últimos años, se ha visto el uso creciente de herramientas de Inteligen
 1. Clonar el repositorio:
 
 ```bash
-git clone 
+git clone https://github.com/Jose-Prince/2026-22087-prince-martinez-jose-alejandro.git
+cd 2026-22087-prince-martinez-jose-alejandro
 ```
 
-2. 
+2. [Descargar Godot](https://godotengine.org/es/)
+3. Importar los proyectos a Godot: En el repo se encuentra dos proyectos de Godot (la versión tradicional y la desarrollada con IA) ambas son modificables de forma independiente en Godot. Para importarlas solo debes localizar los proyectos mediante el editor de Godot.
+4. [Aprende a usar Godot](https://www.youtube.com/watch?v=eQ_HBvtdoiU)
 
 ## Capturas
 
+En la sección de [capturas](/capturas) podrás encontrar diferentes capturas de los videojuegos desarrolldos.
+
 ## Demo
 
+En la sección de [demo](/demo) se encuentra la demostración sobre como quedaron ambos prototipos desarrollados.
+
 ## Documentación
+
+El informe final del proyecto está disponible en [/docs/informe_final.pdf](/docs/informe_final.pdf)
+
+El consentimiento de uso de foto y video firmado se encuentra en [/docs/consentimiento_firmado.pdf](/docs/consentimiento_firmado.pdf)
 
 ## Autores
 - José Alejandro Prince Martinez - 22087
