@@ -41,9 +41,8 @@ El informe final del proyecto está disponible en [/docs/informe_final.pdf](/doc
 
 El consentimiento de uso de foto y video firmado se encuentra en [/docs/consentimiento_firmado.pdf](/docs/Consentimiento-Uso-de-foto-y-Video.pdf)
 
-## Autores
+## Autor
 - José Alejandro Prince Martinez - 22087
-- Nicolle Alexandra Gordillo Ramirez - 22246
 
 ## Licencia
 
