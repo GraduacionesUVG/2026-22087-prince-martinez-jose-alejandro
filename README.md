@@ -27,7 +27,7 @@ cd 2026-22087-prince-martinez-jose-alejandro
 2. [Descargar Godot](https://godotengine.org/es/)
 3. Importar los proyectos a Godot: En el repo se encuentra dos proyectos de Godot (la versión tradicional y la desarrollada con IA) ambas son modificables de forma independiente en Godot. Para importarlas solo debes localizar los proyectos mediante el editor de Godot.
 4. [Aprende a usar Godot](https://www.youtube.com/watch?v=eQ_HBvtdoiU)
-5. En el editor de GOtos, en la tienda de assets, se debe descargar el Dialogue Manager para el funcionamiento de los diálogos
+5. En el editor de Godos, en la tienda de assets, se debe descargar el Dialogue Manager para el funcionamiento de los diálogos
 
 ## Capturas
 
