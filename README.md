@@ -7,6 +7,7 @@ En los últimos años, se ha visto el uso creciente de herramientas de Inteligen
 ## Tecnologías Utilizadas
 
 - Godot v4.7
+- DialogueManager (Addon de Godot)
 - ChatGPT - GPT-5.6 Luna
 
 ## Requisitos Previos
@@ -26,6 +27,7 @@ cd 2026-22087-prince-martinez-jose-alejandro
 2. [Descargar Godot](https://godotengine.org/es/)
 3. Importar los proyectos a Godot: En el repo se encuentra dos proyectos de Godot (la versión tradicional y la desarrollada con IA) ambas son modificables de forma independiente en Godot. Para importarlas solo debes localizar los proyectos mediante el editor de Godot.
 4. [Aprende a usar Godot](https://www.youtube.com/watch?v=eQ_HBvtdoiU)
+5. En el editor de Godos, en la tienda de assets, se debe descargar el Dialogue Manager para el funcionamiento de los diálogos
 
 ## Capturas
 
@@ -41,9 +43,8 @@ El informe final del proyecto está disponible en [/docs/informe_final.pdf](/doc
 
 El consentimiento de uso de foto y video firmado se encuentra en [/docs/consentimiento_firmado.pdf](/docs/Consentimiento-Uso-de-foto-y-Video.pdf)
 
-## Autores
+## Autor
 - José Alejandro Prince Martinez - 22087
-- Nicolle Alexandra Gordillo Ramirez - 22246
 
 ## Licencia
 
